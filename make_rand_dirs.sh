@@ -20,7 +20,7 @@ get_string () {
 
 test_root=test_dir
 
-mkdir test_dir
+mkdir $test_root
 
 j=1
 while [ $j -lt 6 ]
